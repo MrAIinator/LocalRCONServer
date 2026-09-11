@@ -1,5 +1,7 @@
-# LocalRCONServer
+# Hemerium
 
+**Продукт: Hemerium**  
+**Техническое имя: LocalRCONServer**  
 **Автор: MrAlinator**  
 **Официальный сайт: [hemerium.site](https://www.hemerium.site/)**  
 © 2026 MrAlinator. All rights reserved.
@@ -8,8 +10,8 @@
 
 ## Скачать (один клик)
 
-- ПК 0.8.3: [LocalRCONServer-0.8.3-PC.zip](https://github.com/MrAIinator/LocalRCONServer/releases/download/v0.8.3/LocalRCONServer-0.8.3-PC.zip)
-- Android 0.6.3: [LocalRCONServer-0.6.3-Android.apk](https://github.com/MrAIinator/LocalRCONServer/releases/download/v0.8.3/LocalRCONServer-0.6.3-Android.apk)
+- ПК 0.9.0: [Hemerium-0.9.0-PC.zip](https://github.com/MrAIinator/LocalRCONServer/releases/download/v0.9.0/Hemerium-0.9.0-PC.zip)
+- Android 0.7.0: [Hemerium-0.7.0-Android.apk](https://github.com/MrAIinator/LocalRCONServer/releases/download/v0.9.0/Hemerium-0.7.0-Android.apk)
 
-ПК: распакуй ZIP и запусти `LocalRCONServer.exe` из той же папки.
+ПК: распакуй ZIP и запусти `Hemerium.exe` из той же папки.
 Android: поставь APK.
